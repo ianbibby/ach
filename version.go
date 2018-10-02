@@ -4,4 +4,5 @@
 
 package ach
 
+// Version of software
 const Version = "v0.4.0-dev"
